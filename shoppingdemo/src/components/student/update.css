@@ -1,0 +1,51 @@
+.container {
+    width: 490px;
+    height: 420px;
+    display: flex;
+    padding: 5px;
+    background-color: black;
+    opacity: 0.8;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    overflow: scroll;
+    
+  }
+  .form {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 15px;
+    padding: 5px;
+    padding-top: 150px;
+    color: white;
+  }
+  .input {
+    height: 40px;
+    width: 350px;
+    text-align: center;
+    border: 2px black solid;
+    border-radius: 4px;
+    color: black;
+  }
+  .btn {
+    height: 40px;
+    width: 350px;
+    background-color: red;
+    border-radius: 7px;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 3px;
+    box-shadow: 0px 3px 3px 0px gray;
+  }
+  .btn:hover {
+    background-color: gray;
+    color: red;
+    box-shadow: 0px 3px 3px 0px red;
+  }
+  .bgh2 {
+    background-color: aqua;
+    opacity: 60%;
+  }
+  
+  

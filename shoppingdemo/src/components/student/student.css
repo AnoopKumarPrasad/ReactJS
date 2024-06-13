@@ -1,0 +1,13 @@
+.container-fluid{
+        height: 75px;
+        width: 100vw;
+        background-color: rgb(226, 67, 58) color-mix(in hsl shorter hue, color percentage, color percentage);
+        padding-top: 10px;
+        border: 2px black solid;
+        
+}.bgh2 {
+        background-color: aqua;
+        opacity: 60%;
+    }
+    
+    
